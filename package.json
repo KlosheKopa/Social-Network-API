@@ -4,7 +4,7 @@
     "description": "NoSQL: Social Network API",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js",
+      "start": "node server.js",
       "dev": "nodemon index"
     },
     "keywords": [],
@@ -18,5 +18,5 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.9"
-      }
-  }
+    }
+}
