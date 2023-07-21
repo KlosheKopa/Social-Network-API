@@ -31,7 +31,7 @@ const reactionSchema = new Schema(
       },
       id: false,
     }
-  );
+);
 
 const thoughtSchema = new Schema(
     {
